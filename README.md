@@ -240,4 +240,4 @@ This repository serves as the official landing page for RaceRoom. The software i
 **Get the most recent version of RaceRoom today!**
 
 ---
-**Last updated:** 2026-10-30 21:18:29 UTC
+**Last updated:** 2026-10-31 01:21:22 UTC
